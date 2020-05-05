@@ -2,15 +2,16 @@
 
 Solve this according to ur own choice using Object oriented approach A common place to buy candy is from a machine. A new candy machine has been. purchased for the gym, but it is not working properly. The machine sells candies, chips, gum, and cookies. You have been asked to write a program for this candy machine so that it can be put into operation. 
 
-The program should do the following: 
+<b>The program should do the following:</b>
 1. Show the customer the different products sold by the candy machine. 
 2. Let the customer make the selection. 
 3. Show the customer the cost of the item selected. 
 4. Accept money from the customer. 
 5. Release the item 
 
-Input: The item selection and the cost of the item. 
-Output: The selected item.
+<b> Input: </b> The item selection and the cost of the item.
+
+<b> Output: </b> The selected item.
 
 A candy machine has two main components: a built-in cash register and severaldispensers to hold and release the products. 
 ## Cash Register: 
@@ -18,7 +19,7 @@ The register has some cash on hand, it accepts the amount from the customer, and
 ## Dispenser: 
 The dispenser releases the selected item if it is not empty. It should show the number of items in the dispenser and the cost of the item. 
 
-When the program executes, it must do the following: 
+<b>When the program executes, it must do the following:</b>
 1. Show the different products sold by the candy machine. 
 2. Show how to select a particular product 
 3. Show how to terminate the program. 
