@@ -7,9 +7,10 @@ Solve this according to ur own choice using Object oriented approach A common pl
 2. Let the customer make the selection. 
 3. Show the customer the cost of the item selected. 
 4. Accept money from the customer. 
-5. Release the item 
+5. Release the item.
 
 <b> Input: </b> The item selection and the cost of the item.
+
 <b> Output: </b> The selected item.
 
 A candy machine has two main components: a built-in cash register and severaldispensers to hold and release the products. 
@@ -20,7 +21,7 @@ The dispenser releases the selected item if it is not empty. It should show the 
 
 <b>When the program executes, it must do the following:</b>
 1. Show the different products sold by the candy machine. 
-2. Show how to select a particular product 
+2. Show how to select a particular product.
 3. Show how to terminate the program. 
 
 Furthermore, these instructions must be displayed after processing each selection so that the user need not remember what to do if he or she wants to buy two or more items. Once the user has made the appropriate selection, the candy machine must act accordingly. If the user has opted to buy a product and that product is available, the candy machine should show the cost af the product and ask the user to deposit the money. If the amount deposited is at least the cost of the item, the candy machine should sell the item and display an appropriate message.
