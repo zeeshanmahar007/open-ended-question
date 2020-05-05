@@ -10,7 +10,6 @@ Solve this according to ur own choice using Object oriented approach A common pl
 5. Release the item 
 
 <b> Input: </b> The item selection and the cost of the item.
-
 <b> Output: </b> The selected item.
 
 A candy machine has two main components: a built-in cash register and severaldispensers to hold and release the products. 
