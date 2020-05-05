@@ -1,4 +1,5 @@
-# open-ended-question
+# Open ended Question
+
 Solve this according to ur own choice using Object oriented approach A common place to buy candy is from a machine. A new candy machine has been. purchased for the gym, but it is not working properly. The machine sells candies, chips, gum, and cookies. You have been asked to write a program for this candy machine so that it can be put into operation. 
 
 The program should do the following: 
