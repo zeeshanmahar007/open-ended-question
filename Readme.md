@@ -28,4 +28,4 @@ The dispenser releases the selected item if it is not empty. It should show the 
 3. Show how to terminate the program. 
 
 Furthermore, these instructions must be displayed after processing each selection so that the user need not remember what to do if he/she wants to buy two or more items. Once the user has made the appropriate selection, the candy machine must act accordingly. If the user has opted to buy a product and that product is available, the candy machine should show the cost of the product and ask the user to deposit the money. If the amount deposited is at least the cost of the item, the candy machine should sell the item and display an appropriate message.
-ki
+
